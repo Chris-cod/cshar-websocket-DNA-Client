@@ -1,0 +1,15 @@
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\bin\Debug\net6.0\GenDNACodon.exe
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\bin\Debug\net6.0\GenDNACodon.deps.json
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\bin\Debug\net6.0\GenDNACodon.runtimeconfig.json
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\bin\Debug\net6.0\GenDNACodon.dll
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\bin\Debug\net6.0\GenDNACodon.pdb
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.csproj.AssemblyReference.cache
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.AssemblyInfoInputs.cache
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.AssemblyInfo.cs
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.csproj.CoreCompileInputs.cache
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.dll
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\refint\GenDNACodon.dll
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.pdb
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\GenDNACodon.genruntimeconfig.cache
+C:\ApprendreLeCSharp\GenDNACodon\GenDNACodon\obj\Debug\net6.0\ref\GenDNACodon.dll
